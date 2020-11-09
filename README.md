@@ -1,7 +1,7 @@
 
-# RougeBank Fintech App
+# Swindle
 A new approach to banking technology that's fast, accurate and more agile🚀. 
-Get your loan applocations approved faster and have the flexibility to learn from your customers as you grow. I present to you, ROugeBank loan app, a progressive web application powered by artifical intelligence to deliver loan applications faster. 
+Get your loan applocations approved faster and have the flexibility to learn from your customers as you grow. I present to you, Swindle loan app, a progressive web application powered by artifical intelligence to deliver loan applications faster. 
 
 ## Technology Stack
 This application is developed in Python3. The stack is divided into three components:
@@ -32,7 +32,7 @@ The last notebook is the production data test, a randomly synthesized dataset is
 
 
 ### Web Development:
-I use Django restframework to develop the backend. I follow the documentation found here [a link](https://docs.djangoproject.com/en/3.0/)  which is very well written to build the application. Django comes with a list of middlewares to help streamline development process. 
+I use Django restframework to develop the backend.  which is very well written to build the application. Django comes with a list of middlewares to help streamline development process. 
 The middlewares used in this project include: 
 * csrf.CsrfViewMiddleware
 * csrf.CommonMiddleware
