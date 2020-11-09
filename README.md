@@ -54,4 +54,4 @@ python manage.py runserver
 
 5. Test it out
 
-![Screenshot](screenshot.png)
+![Screenshot](Swindle.png)
