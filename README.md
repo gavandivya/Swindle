@@ -1,6 +1,6 @@
 
 # Swindle
-A new approach to banking technology that's fast, accurate and more agile🚀. 
+A new approach to banking technology that's fast, accurate and more agile.
 Get your loan applocations approved faster and have the flexibility to learn from your customers as you grow. I present to you, Swindle loan app, a progressive web application powered by artifical intelligence to deliver loan applications faster. 
 
 ## Technology Stack
@@ -10,7 +10,7 @@ This application is developed in Python3. The stack is divided into three compon
 3. HTML and CSS for frontend development
 
 ### Data Source
-The dataset used in this project is taken from Kaggle and can be found at [a link](https://www.kaggle.com/ninzaami/loan-predication)
+The dataset used in this project is taken from Loan Prediction and can be found at [a link](https://www.kaggle.com/ninzaami/loan-predication)
 
 ### Machine Learning:
 The machine learning pipeline is divided into two python notebooks. The first is the data wrangling notebook which contains the data ingestion, exploratory data analysis, visualization and preprocessing. The libraries in this notebook are listed below.
